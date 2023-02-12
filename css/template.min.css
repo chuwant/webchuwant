@@ -1024,8 +1024,8 @@
 .style2.site-header .header-nav .nav > li.active > a:after {
     content: attr(data-text);
     position: absolute;
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 40px;
+    line-height: 40px;
     vertical-align: middle;
     top: 14px;
     left: 50%;

@@ -459,10 +459,13 @@
 	height: 100%;
 	display: flex;
 	overflow: hidden;
+	border: #000;
+	border-radius: 2px;
 }
 
 .split-box .split-thumb img {
 	object-fit: cover;
+
 }
 
 .split-box-area .split-item .title {
@@ -1224,8 +1227,8 @@
 .style2.site-header .header-nav .nav>li.active>a:after {
 	content: attr(data-text);
 	position: absolute;
-	font-size: 50px;
-	line-height: 50px;
+	font-size: 20px;
+	line-height: 20px;
 	vertical-align: middle;
 	top: 14px;
 	left: 50%;
